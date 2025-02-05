@@ -1,6 +1,6 @@
 # ASNA Visual RPG Ajax example
 
-.
+```
 └── AjaxExample2025.sln/
     ├── VPS.DataNavagationServices/
     │   ├── CustomerByNameList.vr - provides service to get customers by name
@@ -30,3 +30,4 @@
         ├── MasterPage.master
         ├── Web.config
         └── Web.config.authentication      
+```        
