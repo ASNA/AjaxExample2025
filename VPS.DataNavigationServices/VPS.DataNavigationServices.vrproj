@@ -45,10 +45,6 @@
       <SubType>
       </SubType>
     </Compile>
-    <Compile Include="CustomerByNumberList.vr">
-      <SubType>
-      </SubType>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.vr" />
   </ItemGroup>
   <ItemGroup>
