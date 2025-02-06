@@ -32,14 +32,17 @@
         └── Web.config.authentication      
 ```
 ![](https://asna-assets.nyc3.digitaloceanspaces.com/assets/articles/raw-ajax-view.webp)
+
 This image shows the raw Json display. This [Chrome extension](https://chromewebstore.google.com/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) formats the Json for a rational display.
 
 The following two images show the project's two HTML pages. An HTML page is used instead of an ASPX page to illustrate that Ajax, not ASP.NET, is loading the data.
 
 ![](https://asna-assets.nyc3.digitaloceanspaces.com/assets/articles/simpleajaxcall.html.webp)
+
 This image shows the SimpleAjaxCall.html page
 
 ![](https://asna-assets.nyc3.digitaloceanspaces.com/assets/articles/customerautocomplete.html.webp)
+
 This image shows the CustomerAutoComplete.html page
 
 ## Using Ajax requires an HTTP endpoint
