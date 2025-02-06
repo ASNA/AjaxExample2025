@@ -44,7 +44,7 @@
     let lastCustomerName = ""
 
     const getCustomerPage = async (customerName) => {
-        var apiUrl = `../../services/customerlist.ashx?order=name&startingkey=${customerName}`;
+        var apiUrl = `/services/customerlist.ashx?order=name&startingkey=${customerName}`;
 
         try {
             const response = await fetch(apiUrl);
